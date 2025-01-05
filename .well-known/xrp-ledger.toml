@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rsywygqGBxCS2c5p4DbW3e52g5DrZ2ePe4"
-name = "DARK PEPE"
+address = "rD9X3dgHTHf8pzeFHxfMHZAUUmKQVDrGtD"
+name = "Nexia Agent"
 
 [[TOKENS]]
-issuer = "rsywygqGBxCS2c5p4DbW3e52g5DrZ2ePe4"
-currency = "DPEPE"
-name = "DARK PEPE"
-desc = ""
+issuer = "rD9X3dgHTHf8pzeFHxfMHZAUUmKQVDrGtD"
+currency = "NEXIA"
+name = "Nexia Agent"
+desc = "Advanced AI agent specializing in crypto and memecoins trading."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
