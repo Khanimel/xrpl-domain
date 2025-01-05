@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rD9X3dgHTHf8pzeFHxfMHZAUUmKQVDrGtD"
-name = "Nexia Agent"
+address = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
+name = "Masha and the Bear"
 
 [[TOKENS]]
-issuer = "rD9X3dgHTHf8pzeFHxfMHZAUUmKQVDrGtD"
-currency = "NEXIA"
-name = "Nexia Agent"
-desc = "Advanced AI agent specializing in crypto and memecoins trading."
+issuer = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
+currency = "MNBX"
+name = "Masha and the Bear"
+desc = "One of the most watched videos on YouTube! 4.6B! Happy New Year 2025!"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
