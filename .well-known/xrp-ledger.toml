@@ -1,1 +1,24 @@
+[[ISSUERS]]
+address = "rUYJg9Tt5Vsw3BNrrsMtZjbRkH43k7CCzT"
+name = "RICHPEPE"
 
+[[TOKENS]]
+issuer = "rUYJg9Tt5Vsw3BNrrsMtZjbRkH43k7CCzT"
+currency = "RPC"
+name = "RICHPEPE"
+desc = "RichPepe has arrived—the blinged-out god of wealth!"
+icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.google.com"
+type = "website"
+title = "Official Website"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.tiktok.com"
+type = "website"
+title = "Telegram"
+
+[[TOKENS.WEBLINKS]]
+url = "https://www.tiktok.com"
+type = "socialmedia"
