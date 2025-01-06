@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "raTQ7ohQkZ28yiAzEfT4wsWZ7xZDZzcbRX"
-name = "HOTELX HOST XRP"
+address = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
+name = "CasinoCoin"
 
 [[TOKENS]]
-issuer = "raTQ7ohQkZ28yiAzEfT4wsWZ7xZDZzcbRX"
-currency = "HOTELX"
-name = "HOTELX HOST XRP"
-desc = ""
+issuer = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
+currency = "CSC"
+name = "CasinoCoin"
+desc = "CasinoCoin (CSC) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.google.com"
+url = "https://casinocoin.im"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com"
+url = "https://casinocoin.info"
 type = "website"
-title = "Telegram"
+title = "Token Info Dashboard"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com"
+url = "https://twitter.com/CasinoCoin"
 type = "socialmedia"
