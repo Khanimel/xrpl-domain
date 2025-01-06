@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
-name = "LITE COIN X"
+address = "rNBF4RWptXAyfx3mD4NyApAAVaadUchCh5"
+name = "BASEX BASED"
 
 [[TOKENS]]
-issuer = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
-currency = "LTCX"
-name = "LITE COIN X"
+issuer = "rNBF4RWptXAyfx3mD4NyApAAVaadUchCh5"
+currency = "BASEX"
+name = "BASEX BASED"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
