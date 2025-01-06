@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rpE3FAd8kWSymXky7TfNAi1iMCwFCQRzW8"
-name = "FLOOD FLOODING THE GATES"
+name = "FLOODS FLOODING THE GATES"
 
 [[TOKENS]]
 issuer = "rpE3FAd8kWSymXky7TfNAi1iMCwFCQRzW8"
-currency = "FLOOD"
-name = "FLOOD FLOODING THE GATES"
+currency = "FLOODS"
+name = "FLOODS FLOODING THE GATES"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
