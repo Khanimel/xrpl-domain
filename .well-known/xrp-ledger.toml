@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
-name = "Masha and the Bear"
+address = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
+name = "LITE COIN X"
 
 [[TOKENS]]
-issuer = "rBMVHtgm1NTQghux8kyfYgDBHDjZPyVAQG"
-currency = "MNBX"
-name = "Masha and the Bear!"
-desc = "One of the most watched videos on YouTube! 4.6B! Happy New Year 2025!"
+issuer = "rhFhEkhU3Dnc7BjK3cJ2UksMwVWLYKjAuH"
+currency = "LTCX"
+name = "LITE COIN X"
+desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
