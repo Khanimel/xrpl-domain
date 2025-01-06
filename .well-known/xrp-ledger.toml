@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rpE3FAd8kWSymXky7TfNAi1iMCwFCQRzW8"
-name = "FLOODS FLOODING THE GATES"
+address = "raTQ7ohQkZ28yiAzEfT4wsWZ7xZDZzcbRX"
+name = "HOTELX HOST XRP"
 
 [[TOKENS]]
-issuer = "rpE3FAd8kWSymXky7TfNAi1iMCwFCQRzW8"
-currency = "FLOODS"
-name = "FLOODS FLOODING THE GATES"
+issuer = "raTQ7ohQkZ28yiAzEfT4wsWZ7xZDZzcbRX"
+currency = "HOTELX"
+name = "HOTELX HOST XRP"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
