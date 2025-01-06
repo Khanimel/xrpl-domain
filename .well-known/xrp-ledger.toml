@@ -15,10 +15,10 @@ type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://casinocoin.info"
+url = "https:google.com"
 type = "website"
 title = "Token Info Dashboard"
 
 [[TOKENS.WEBLINKS]]
-url = "https://twitter.com/CasinoCoin"
+url = "https://twitter.com"
 type = "socialmedia"
