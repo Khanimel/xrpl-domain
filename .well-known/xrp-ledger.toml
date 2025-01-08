@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-name = "CasinoCoin"
+address = "r3i11zUhqgtGjuKucrRvTJ71PEGNaHdcKV"
+name = "BananaX"
 
 [[TOKENS]]
-issuer = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-currency = "CSC"
-name = "CasinoCoin"
-desc = "CasinoCoin (CSC) is a digital currency, developed specifically for the regulated gaming industry."
+issuer = "r3i11zUhqgtGjuKucrRvTJ71PEGNaHdcKV"
+currency = "BananaX"
+name = "BananaX"
+desc = "BananaX is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
